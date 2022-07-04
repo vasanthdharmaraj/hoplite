@@ -1,7 +1,5 @@
 pluginManagement {
    repositories {
-      maven("https://ci-repo.aexp.com/java-proxy/content/repositories/iq-maven-central-proxy/")
-
       mavenLocal()
       mavenCentral()
       maven {
